@@ -1,0 +1,7 @@
+form{ 
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  justify-content: center
+
+}

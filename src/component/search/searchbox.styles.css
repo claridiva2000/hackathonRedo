@@ -1,0 +1,8 @@
+.searchbox{
+  width: 80%;
+  height: 45px;
+  margin-top:20px;
+  border-radius: 5px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.5rem
+}
